@@ -12,7 +12,7 @@ print("World")
 # != - Determines if two values are not equal
 # > - Determines if one value is greater than the other
 # < - Determines if one value is less than the other
-# <= - Determines one value is less than or equal to 
+# <= - Determines one value is less than or equal to
 # >= - Determines if one value is greater than or equal to
 
 # Else with ifs
@@ -37,7 +37,6 @@ elif seconds == 60:
 	print("This is exactly a minute.")
 else:
 	print("This is less than a minute")
-
 
 # Logical Operations
 # Logical Operations allow you to check multiple conditions
@@ -67,7 +66,6 @@ if status == "Empty" or status == "1/8th":
 	print("Fill your gas tank!")
 else:
 	print("You have enough gas.")
-
 
 # Nested Ifs
 # These are if statements within other if statements
